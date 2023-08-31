@@ -21,4 +21,4 @@ To find insights of dataset
 1) Underground,strip and open pit locations have more number of accidents as compare to other locations
 2) Metal/Non-Metal mines have slightly more accidents as compare to coal mines
 3) 2005 and 2008 have more cases of accidents and illness as compare to other years.
-4) 
+
