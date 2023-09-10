@@ -1,3 +1,5 @@
+# Brief Explaination of the project( for more please go through the main pdf):
+
 # Introduction: 
 
 This is a project involving the study of a dataset from the US Department of Labor’s “US Accident Injury Dataset”,
